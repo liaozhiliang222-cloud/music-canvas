@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#151715"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- vinyl disc -->
+    <path
+        android:fillColor="#221F1A"
+        android:pathData="M54,20a34,34 0 1,0 0.001,0z" />
+    <path
+        android:strokeColor="#3A362E"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,30a24,24 0 1,0 0.001,0z" />
+    <path
+        android:strokeColor="#3A362E"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,38a16,16 0 1,0 0.001,0z" />
+    <!-- label -->
+    <path
+        android:fillColor="#C99454"
+        android:pathData="M54,46a8,8 0 1,0 0.001,0z" />
+    <path
+        android:fillColor="#151715"
+        android:pathData="M54,52a2,2 0 1,0 0.001,0z" />
+</vector>

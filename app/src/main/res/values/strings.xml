@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">音乐艺术屏</string>
+    <string name="listener_service_label">音乐艺术屏媒体接入</string>
+
+    <string name="demo_badge">演示</string>
+    <string name="connect_my_music">连接我的音乐</string>
+    <string name="permission_title">连接你正在听的音乐</string>
+    <string name="permission_body">为了显示同一部手机上的歌名、歌手、封面，并发送播放控制，音乐艺术屏需要你在系统中开启通知访问。\n\n此系统权限的范围可能包括其他应用通知，不仅限于音乐。我们仅使用你选择的音乐来源的媒体会话；其他通知不解析、不保存、不上传。你可以随时关闭连接。\n\n不同播放器可能只提供部分信息。</string>
+    <string name="permission_go_settings">了解并前往系统设置</string>
+    <string name="permission_later">暂不连接，继续预览</string>
+    <string name="permission_required">未开启通知访问</string>
+    <string name="waiting_source">尚未检测到所选来源的播放</string>
+    <string name="waiting_source_hint">请打开所选音乐应用并开始播放</string>
+    <string name="disconnected">连接暂时不可用</string>
+    <string name="partial_fields">来源仅提供部分信息</string>
+    <string name="track_info_unavailable">曲目信息暂不可用</string>
+    <string name="unknown_artist">未知艺人</string>
+    <string name="estimated_progress">估算进度</string>
+    <string name="source_not_responding">来源暂未响应，请在原应用确认</string>
+    <string name="action_not_supported">所选来源不支持此操作</string>
+    <string name="open_source_app">打开来源应用</string>
+    <string name="start_desk_display">开始展示</string>
+    <string name="end_desk_display">结束展示</string>
+    <string name="desk_finished">本次展示已结束</string>
+    <string name="desk_dim_hint">首次桌面展示：长时间亮屏会增加耗电与发热，结束后会恢复屏幕策略</string>
+    <string name="theme_drawer">主题</string>
+    <string name="sources">音乐来源</string>
+    <string name="settings">设置</string>
+    <string name="motion_standard">标准动效</string>
+    <string name="motion_saver">节能动效</string>
+    <string name="motion_static">静态展示</string>
+    <string name="desk_timer">展示时长</string>
+    <string name="timer_15">15 分钟</string>
+    <string name="timer_30">30 分钟</string>
+    <string name="timer_60">60 分钟</string>
+    <string name="disconnect_connection">断开连接</string>
+    <string name="clear_cache">清除缓存与偏好</string>
+    <string name="export_diagnostics">导出脱敏诊断</string>
+    <string name="auto_follow">自动跟随播放来源</string>
+    <string name="fixed_source">固定来源</string>
+    <string name="auto_follow_short">自动跟随</string>
+    <string name="no_sources_found">未发现活动媒体会话</string>
+    <string name="hide_track_info">隐藏曲目信息（纯艺术）</string>
+    <string name="unlock_page">解锁更多主题</string>
+    <string name="pro_theme_locked">Pro 主题 · 收费版提供</string>
+    <string name="pro_theme_beta_free">Pro 主题 · Beta 期免费体验</string>
+    <string name="coming_r1">该主题将在正式版（R1）中提供</string>
+    <string name="version_label">版本</string>
+    <string name="privacy_note">真实音乐信息只用于当前展示，不上传、不建立听歌档案。</string>
+    <string name="back">返回</string>
+    <string name="select_source">选择来源</string>
+    <string name="capability_partial">部分支持</string>
+    <string name="now_playing_unknown_state">播放状态未知</string>
+    <string name="cooling_down">设备发热，已切换为静态展示</string>
+    <string name="low_battery_mode">低电量，已切换为节能展示</string>
+</resources>

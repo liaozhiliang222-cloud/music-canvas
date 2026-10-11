@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="warm_black">#151715</color>
+    <color name="paper_white">#F2EBDD</color>
+    <color name="amber">#C99454</color>
+    <color name="sage">#8C9A8F</color>
+    <color name="dark_panel">#221F1A</color>
+</resources>
